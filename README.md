@@ -1,8 +1,6 @@
 # ANIMATED LOGIN PAGE 
  Animated login page is the new page which is smooth and clean frame as well used to login in server.. 
  
-  ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
- 
  ## RESOURCES AND LANGUAGE USED:-
    -visual display code
    -html
